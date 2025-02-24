@@ -19,7 +19,7 @@ Removed all passwords consisting only of numbers in 8,9,10 long<br>
 BONUS.txt - best crypto passwords (long 8-45)<br>
 
 Passwords collected over 3 years consist of:<br>
-leakbase.io GoldPack Database ~20TB, Logs ~50TB, priv tg ~25TB, leaks ~30TB, forum with premium access ~40TB.<br>
+GoldPack Database ~20TB, Logs ~50TB, priv tg ~25TB, leaks ~30TB, forum with premium access ~40TB.<br>
 Password lists were purchased from individuals.<br>
 Passwords were extracted from all tg channels that deal with logs, both private and free + antipublic. <br>
 From all databases, m:p, sql tables, u:l:p, u:p, l:p and other sources.<br>

@@ -1,4 +1,4 @@
-# Passwords for Brute $300
+# Passwords for Brute $500
 
 | Password length | Number of passwords | Size dic |
 |------------|----------|----------|
@@ -28,4 +28,5 @@ This is the best password database for brute force.<br>
 The database finds passwords for various hashes in the paid password selection service [hashes.com](https://hashes.com/en/escrow/view)<br>
 Having found several passwords, you can recoup the costs of purchasing this database.
 
-Download password database https://t.me/cuda8
+
+To purchase, write to ```@phrutis```

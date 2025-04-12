@@ -2,8 +2,8 @@
 
 | Password length | Number of passwords | Size dic |
 |------------|----------|----------|
-| passwords_8.txt | 1,613,061,095 | 14.17 GB |
-| passwords_9.txt | 1,946,725,602 | 19.01 GB |
+| passwords_8.txt | 1,613,061,097 | 14.17 GB |
+| passwords_9.txt | 1,928,976,604 | 19.01 GB |
 | passwords_10.txt | 1,687,085,510 | 18.12 GB |
 | passwords_11.txt | 1,814,346,191 | 21.26 GB |
 | passwords_12.txt | 1,589,555,575 | 20.17 GB |

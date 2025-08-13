@@ -1,4 +1,4 @@
-# Passwords for Brute ~~$600~~ -> $500
+# Passwords for Brute ~~$600~~ -> $250
 
 | Password length | Number of passwords | Size dic |
 |------------|----------|----------|

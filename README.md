@@ -1,32 +1,28 @@
-# Passwords for Brute ~~$600~~ -> $250
+**Passwords for Brute 222 GB - $1000** <br>
+Update: 31.10.2025<br>
+**17,572,627,865 passwords** (no duplicates and garbage)<br>
+Password length 7-30
 
-| Password length | Number of passwords | Size dic |
-|------------|----------|----------|
-| passwords_8.txt | 1,613,061,097 | 14.17 GB |
-| passwords_9.txt | 1,928,976,604 | 19.01 GB |
-| passwords_10.txt | 1,687,085,510 | 18.12 GB |
-| passwords_11.txt | 1,814,346,191 | 21.26 GB |
-| passwords_12.txt | 1,589,555,575 | 20.17 GB |
-| passwords_13.txt | 1,254,021,028 | 17.14 GB |
-| passwords_14.txt | 981,730,250 | 14.38 GB |
-| passwords_15.txt | 804,364,044 | 12.56 GB |
-| passwords_16.txt | 459,936,517 | 7.64 GB |
-| passwords_17-30.txt | 832,763,112 | 16.42 GB |
-| BONUS.txt | 197,405,768 | 2.45 GB |
+Passwords collected over 3 years.<br>
+My own collection of passwords collected from logs.<br>
+I purchased databases from other sellers, spending over $12к<br>
+Compared the purchased databases and added unique passwords.<br>
+The result is a unique database for brute-force attacks.<br>
+In the example_pass.txt - 11.5M passwords are compared for uniqueness with yours.
 
-<b>Total: 12,150,687,090 passwords</b> (no duplicates and garbage) 167 GB Unpack<br>
-Removed all passwords consisting only of numbers in 8,9,10 long<br>
-BONUS.txt - best crypto passwords (long 8-45)<br>
+222 GB database compressed with 7z (122 GB)<br>
+Fast download from mega.nz
 
-Passwords collected over 3 years consist of:<br>
-GoldPack Database ~20TB, Logs ~50TB, priv tg ~25TB, leaks ~30TB, forum with premium access ~40TB.<br>
-Password lists were purchased from individuals.<br>
-Passwords were extracted from all tg channels that deal with logs, both private and free + antipublic. <br>
-From all databases, m:p, sql tables, u:l:p, u:p, l:p and other sources.<br>
+https://mega.nz/#P!AgFhilURopDaBg-Jf1Q2X8qoRHlGGOLd1FGmBF17n_UIu_FtLgzPgxYNh8CbwohljuDuSnD5vpYN2xN6TWOoiELDUoCona4MT8lC7_nd6liWrlNolryVTkVzmjjoE8ZQFyLAR9txHlo
 
-This is the best password database for brute force.<br>
-The database finds passwords for various hashes in the paid password selection service [hashes.com](https://hashes.com/en/escrow/view)<br>
-Having found several passwords, you can recoup the costs of purchasing this database.
+🔒 The archive and link is password protected!<br>
+Price: $1000
 
+🏪 Buy Password:<br>
+https://t.me/send?start=IV8CE3I7nt5t
 
-To purchase, write to ```@phrutis```
+🔐 The bot will give you the password after purchase.
+
+🔄 The received password is suitable for new databases that will be published here.
+
+🛒 You can also buy from me write ```@phrutis```
